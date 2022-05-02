@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshul.
 - 👀 I’m interested in Web3.
-- 🌱 I’m currently learning Solidity & Blockchain Development.
+- 🌱 I’m currently learning Solana & Blockchain Development.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 
 
